@@ -12,7 +12,7 @@ Together with [Yuchao Gu](https://ycgu.site/) and [Mike Zheng Shou](https://site
     <figure>
         <img src="/images/show/MAG/framework.png" class="img-responsive">
         <figcaption>
-            A whole zebrafish brain activity map, showing the distribution of motion-sensitive neurons, color-coded to show the preferred motion direction.
+            High-level overview of the proposed MAG-Edit framework.
         </figcaption>
     </figure>
 </div>
