@@ -26,6 +26,6 @@ Students interested in joining MIPG should possess excellent English reading and
 
 **If you plan on applying,** keep a few things in mind:
 - It's best to contact Qi Mao in advance if you have a strong interest in our lab. Some programs may be a better fit for you than others. _Please also indicate which program(s) you are targeting._
-- You can send your resume to email if you want to join MIPG. The content includes but is not limited to your CET-4 and CET-6 scores, undergraduate transcripts, research or internship experience, skill mastery, etc. We will interview you based on your resume. You can become an intern through an interview, and the internship period ranges from 3 months to 6 months.
+- You can send your resume to this [email](qimao@cuc.edu.cn) if you want to join MIPG. The content includes but is not limited to your CET-4 and CET-6 scores, undergraduate transcripts, research or internship experience, skill mastery, etc. We will interview you based on your resume. You can become an intern through an interview, and the internship period ranges from 3 months to 6 months.
 
 
