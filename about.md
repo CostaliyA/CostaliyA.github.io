@@ -5,7 +5,7 @@ desc: Our mission and vision
 nav: About # what shows up in the navbar at the top (do not define if you don't want page in the navbar)
 ---
 
-<img src="images/MIPG.jpg" style="float:left; margin-right: 20px; margin-bottom: 10px" width="200px">
+<img src="images/show.jpg" style="float:left; margin-right: 20px; margin-bottom: 10px" width="200px">
 
 # Who we are
 
