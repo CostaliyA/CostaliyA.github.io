@@ -5,12 +5,12 @@ desc: Check out what we're working on
 nav: Research
 ---
 
-# Real-time analysis of neural data
+# MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance
 
-Together with [Eva Naumann's](https://www.neuro.duke.edu/research/faculty-labs/naumann-lab) lab, we've developed *[improv](https://github.com/pearsonlab/improv)* ([paper](https://www.biorxiv.org/content/10.1101/2021.02.22.432006v1)), a software platform for designing and orchestrating adaptive experiments. By analyzing data in real time, we can measure, model, and manipulate neural activity in response to new data. We've shown how these tools, in conjunction with holographic photostimulation, could in principle map functional connectivity of large circuits in a few hours ([paper](https://proceedings.nips.cc/paper/2020/file/531d29a813ef9471aad0a5558d449a73-Paper.pdf), [expanded version](https://arxiv.org/abs/2007.13911)). More recently, we've worked on methods for fast dimensionality reduction and modeling of neural populations in real time ([paper](https://arxiv.org/abs/2108.13941)).
+Together with [Yuchao Gu](https://ycgu.site/) and [Mike Zheng Shou](https://sites.google.com/view/showlab), we develop MAG-Edit ：the first method specifically designed to address localized image editing in complex scenarios without training.Recent diffusion-based image editing approaches have exhibited impressive editing capabilities in images with simple compositions. However, localized editing in complex scenarios has not been well-studied in the literature, despite its growing real-world demands. Existing mask-based inpainting methods fall short of retaining the underlying structure within the edit region. Meanwhile, mask-free attention-based methods often exhibit editing leakage and misalignment in more complex compositions. In this work, we develop MAG-Edit, a training-free, inference-stage optimization method, which enables localized image editing in complex scenarios. In particular, MAG-Edit optimizes the noise latent feature in diffusion models by maximizing two mask-based cross-attention constraints of the edit token, which in turn gradually enhances the local alignment with the desired prompt. Extensive quantitative and qualitative experiments demonstrate the effectiveness of our method in achieving both text alignment and structure preservation for localized editing within complex scenarios.
 <div class="row">
     <figure>
-        <img src="https://dibs-web01.vm.duke.edu/pearson/assets/images/zebrafish/colorFish.png" class="img-responsive">
+        <img src="/images/show/MAG/framework.png" class="img-responsive">
         <figcaption>
             A whole zebrafish brain activity map, showing the distribution of motion-sensitive neurons, color-coded to show the preferred motion direction.
         </figcaption>
