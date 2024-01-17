@@ -30,7 +30,7 @@
     given: Mike Zheng
   issued:
   - year: 2023
-  title:  MAG-Edit:Localized Image Editing in Complex Scenarios via $$\backslash$underline $\{$M$\}$ $ ask-Based $$\backslash$underline $\{$A$\}$ $ ttention-Adjusted $$\backslash$underline $\{$G$\}$ $ uidance
+  title:  MAG-Edit:Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance
   container-title: arXiv preprint arXiv:2312.11396
   publisher: a
   page: a
