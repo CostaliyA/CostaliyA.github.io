@@ -15,76 +15,8 @@
   volume: (*accepted*)
   note: Selected for Oral Presentation
 
-- id: roy2021inter
-  type: article-journal
-  author:
-  - family: Roy
-    given: Suva
-  - family: Jun
-    given: Na Young
-  - family: Davis
-    given: Emily L
-  - family: Pearson
-    given: John
-  - family: Field
-    given: Greg D
-  issued:
-  - year: 2021
-  title: Inter-mosaic coordination of retinal receptive fields
-  container-title: Nature
-  publisher: Nature Publishing Group
-  page: '409-413'
-  volume: '592'
-  issue: '7854'
-
-- id: goffinet2021low
-  type: article-journal
-  author:
-  - family: Goffinet
-    given: Jack
-  - family: Brudner
-    given: Samuel
-  - family: Mooney
-    given: Richard
-  - family: Pearson
-    given: John
-  issued:
-  - year: 2021
-  title: Low-dimensional learned feature spaces quantify individual and group differences
-    in vocal repertoires
-  container-title: eLife
-  publisher: eLife Sciences Publications
-  page: 'e67855'
-  volume: '10'
-
-- id: draelos2020online
-  type: paper-conference
-  author:
-  - family: Draelos
-    given: Anne
-  - family: Pearson
-    given: John M
-  issued:
-  - year: 2020
-  title: Online neural connectivity estimation with noisy group testing
-  container-title: Advances in neural information processing systems
-  volume: '33'
-
-- id: draelos2020arxiv
-  type: article-journal
-  author:
-  - family: Draelos
-    given: Anne
-  - family: Naumann
-    given: Eva A
-  - family: Pearson
-    given: John M
-  issued:
-  - year: 2020
-  title: Online neural connectivity estimation with ensemble stimulation
-  container-title: arXiv preprint arXiv:2007.13911
-
 - id: mao2023mag
+  type: paper-conference
   author:
   - family: Mao
     given: Qi
@@ -98,10 +30,11 @@
     given: Mike Zheng
   issued:
   - year: 2023
-  title: MAG-Edit: Localized Image Editing in Complex Scenarios via $$\backslash$underline $\{$M$\}$ $ ask-Based $$\backslash$underline $\{$A$\}$ $ ttention-Adjusted $$\backslash$underline $\{$G$\}$ $ uidance
+  title: "MAG-Edit: Localized Image Editing in Complex Scenarios via $$\backslash$underline $\{$M$\}$ $ ask-Based $$\backslash$underline $\{$A$\}$ $ ttention-Adjusted $$\backslash$underline $\{$G$\}$ $ uidance"
   journal: arXiv preprint arXiv:2312.11396
 
 - id: mao2022continuous
+  type: article-journal
   author:
   - family: Mao
     given: Qi
@@ -125,6 +58,7 @@
   publisher: Springer
 
 - id: wu2023zgaming
+  type: paper-conference
   author:
   - family: Wu
     given: Jiangkai
@@ -140,11 +74,12 @@
     given: Xinggong
   issued:
   - year: 2023
-  title: ZGaming: Zero-latency 3D cloud gaming by image prediction
+  title: "ZGaming: Zero-latency 3D cloud gaming by image prediction"
   booktitle: Proceedings of the ACM SIGCOMM 2023 Conference
   pages: '710-723'
 
 - id: ma2023overview
+  type: paper-conference
   author:
   - family: Ma
     given: Siwei
@@ -162,7 +97,7 @@
     given: Chuanmin
   issued:
   - year: 2023
-  title: Overview of intelligent video coding: from model-based to learning-based approaches
+  title: "Overview of intelligent video coding: from model-based to learning-based approaches"
   journal: Visual Intelligence
   volume: '1'
   number: '1' 
@@ -170,6 +105,7 @@
   publisher: Springer
 
 - id: mao2023extreme
+  type: paper-conference
   author:
   - family: Mao
     given: Qi
@@ -191,6 +127,7 @@
   journal: arXiv preprint arXiv:2307.08265
 
 - id: chang2023semantic
+  type: article-journal
   author:
   - family: Chang
     given: Jianhui
@@ -216,6 +153,7 @@
   publisher: Springer
 
 - id: wang2023extreme
+  type: paper-conference
   author:
   - family: Wang
     given: Ruofan
@@ -235,6 +173,7 @@
   organization: IEEE
 
 - id: mao2023enhancing
+  type: paper-conference
   author:
   - family: Mao
     given: Qi
@@ -247,6 +186,7 @@
   publisher: IEEE
 
 - id: wang2022disentangled
+  type: paper-conference
   author:
   - family: Wang
     given: Ruofan
@@ -268,6 +208,7 @@
   organization: IEEE
 
 - id: chang2022conceptual
+  type: paper-conference
   author:
   - family: Chang
     given: Jianhui
