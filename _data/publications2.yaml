@@ -1,0 +1,294 @@
+---
+- id: jun2022channel
+  type: article-journal
+  author:
+  - family: Jun
+    given: Na Young
+  - family: Field
+    given: Greg D.
+  - family: Pearson
+    given: John M.
+  issued:
+  - year: 2022
+  title: Efficient11 coding, channel capacity and the emergence of retinal mosaics
+  container-title: Advances in Neural Information Processing Systems
+  volume: (*accepted*)
+  note: Selected for Oral Presentation
+
+- id: roy2021inter
+  type: article-journal
+  author:
+  - family: Roy
+    given: Suva
+  - family: Jun
+    given: Na Young
+  - family: Davis
+    given: Emily L
+  - family: Pearson
+    given: John
+  - family: Field
+    given: Greg D
+  issued:
+  - year: 2021
+  title: Inter-mosaic coordination of retinal receptive fields
+  container-title: Nature
+  publisher: Nature Publishing Group
+  page: '409-413'
+  volume: '592'
+  issue: '7854'
+
+- id: goffinet2021low
+  type: article-journal
+  author:
+  - family: Goffinet
+    given: Jack
+  - family: Brudner
+    given: Samuel
+  - family: Mooney
+    given: Richard
+  - family: Pearson
+    given: John
+  issued:
+  - year: 2021
+  title: Low-dimensional learned feature spaces quantify individual and group differences
+    in vocal repertoires
+  container-title: eLife
+  publisher: eLife Sciences Publications
+  page: 'e67855'
+  volume: '10'
+
+- id: draelos2020online
+  type: paper-conference
+  author:
+  - family: Draelos
+    given: Anne
+  - family: Pearson
+    given: John M
+  issued:
+  - year: 2020
+  title: Online neural connectivity estimation with noisy group testing
+  container-title: Advances in neural information processing systems
+  volume: '33'
+
+- id: draelos2020arxiv
+  type: article-journal
+  author:
+  - family: Draelos
+    given: Anne
+  - family: Naumann
+    given: Eva A
+  - family: Pearson
+    given: John M
+  issued:
+  - year: 2020
+  title: Online neural connectivity estimation with ensemble stimulation
+  container-title: arXiv preprint arXiv:2007.13911
+
+- id: mao2023mag
+  author:
+  - family: Mao
+    given: Qi
+  - family: Chen
+    given: Lan
+  - family: Gu
+    given: Yuchao
+  - family: Fang
+    given: Zhen
+  - family: Shou
+    given: Mike Zheng
+  issued:
+  - year: 2023
+  title: MAG-Edit: Localized Image Editing in Complex Scenarios via $$\backslash$underline $\{$M$\}$ $ ask-Based $$\backslash$underline $\{$A$\}$ $ ttention-Adjusted $$\backslash$underline $\{$G$\}$ $ uidance
+  journal: arXiv preprint arXiv:2312.11396
+
+- id: mao2022continuous
+  author:
+  - family: Mao
+    given: Qi
+  - family: Tseng
+    given: Hung-Yu
+  - family: Lee
+    given: Hsin-Ying
+  - family: Huang
+    given: Jia-Bin
+  - family: Ma
+    given: Siwei
+  - family: Yang
+    given: Ming-Hsuan
+  issued:
+  - year: 2022
+  title: Continuous and diverse image-to-image translation via signed attribute vectors
+  journal: International Journal of Computer Vision
+  volume: '130'
+  number: '2' 
+  pages: '517-549'
+  publisher: Springer
+
+- id: wu2023zgaming
+  author:
+  - family: Wu
+    given: Jiangkai
+  - family: Guan
+    given: Yu
+  - family: Mao
+    given: Qi
+  - family: Cui
+    given: Yong
+  - family: Guo
+    given: Zongming
+  - family: Zhang
+    given: Xinggong
+  issued:
+  - year: 2023
+  title: ZGaming: Zero-latency 3D cloud gaming by image prediction
+  booktitle: Proceedings of the ACM SIGCOMM 2023 Conference
+  pages: '710-723'
+
+- id: ma2023overview
+  author:
+  - family: Ma
+    given: Siwei
+  - family: Guo
+    given: Junlong
+  - family: Wang
+    given: Ruofan
+  - family: Chang
+    given: Jianhui
+  - family: Mao
+    given: Qi
+  - family: Huang
+    given: Zhimeng
+  - family: Jia
+    given: Chuanmin
+  issued:
+  - year: 2023
+  title: Overview of intelligent video coding: from model-based to learning-based approaches
+  journal: Visual Intelligence
+  volume: '1'
+  number: '1' 
+  pages: '15'
+  publisher: Springer
+
+- id: mao2023extreme
+  author:
+  - family: Mao
+    given: Qi
+  - family: Yang
+    given: Tinghan
+  - family: Zhang
+    given: Yinuo
+  - family: Pan
+    given: Shuyin
+  - family: Wang
+    given: Meng
+  - family: Wang
+    given: Shiqi
+  - family: Ma
+    given: Siwei
+  issued:
+  - year: 2023
+  title: Extreme Image Compression using Fine-tuned VQGAN Models
+  journal: arXiv preprint arXiv:2307.08265
+
+- id: chang2023semantic
+  author:
+  - family: Chang
+    given: Jianhui
+  - family: Zhang
+    given: Jian
+  - family: Li
+    given: Jiguo
+  - family: Wang
+    given: Shiqi
+  - family: Mao
+    given: Qi
+  - family: Jia
+    given: Chuanmin
+  - family: Ma
+    given: Siwei
+  - family: Gao
+    given: Wen
+  issued:
+  - year: 2023
+  title: Semantic-Aware Visual Decomposition for Image Coding
+  journal: International Journal of Computer Vision
+  pages: '1-23'
+  publisher: Springer
+
+- id: wang2023extreme
+  author:
+  - family: Wang
+    given: Ruofan
+  - family: Mao
+    given: Qi
+  - family: Jia
+    given: Chuanmin
+  - family: Wang
+    given: Ronggang
+  - family: Ma
+    given: Siwei
+  issued:
+  - year: 2023
+  title: Extreme Generative Human-Oriented Video Coding via Motion Representation Compression
+  booktitle: 2023 IEEE International Symposium on Circuits and Systems (ISCAS)
+  pages: '1-5'
+  organization: IEEE
+
+- id: mao2023enhancing
+  author:
+  - family: Mao
+    given: Qi
+  - family: Ma
+    given: Siwei
+  issued:
+  - year: 2023
+  title: Enhancing Style-Guided Image-to-Image Translation via Self-Supervised Metric Learning
+  journal: IEEE Transactions on Multimedia
+  publisher: IEEE
+
+- id: wang2022disentangled
+  author:
+  - family: Wang
+    given: Ruofan
+  - family: Mao
+    given: Qi
+  - family: Wang
+    given: Shiqi
+  - family: Jia
+    given: Chuanmin
+  - family: Wang
+    given: Ronggang
+  - family: Ma
+    given: Siwei
+  issued:
+  - year: 2022
+  title: Disentangled Visual Representations for Extreme Human Body Video Compression
+  booktitle: 2022 IEEE International Conference on Multimedia and Expo (ICME)
+  pages: '1-6'
+  organization: IEEE
+
+- id: chang2022conceptual
+  author:
+  - family: Chang
+    given: Jianhui
+  - family: Zhao
+    given: Zhenghui
+  - family: Jia
+    given: Chuanmin
+  - family: Wang
+    given: Shiqi
+  - family: Yang
+    given: Lingbo
+  - family: Mao
+    given: Qi
+  - family: Zhang
+    given: Jian
+  - family: Ma
+    given: Siwei
+  issued:
+  - year: 2022
+  title: Conceptual compression via deep structure and texture synthesis
+  journal: IEEE Transactions on Image Processing
+  volume: '31'
+  pages: '2809-2823'
+  publisher: IEEE
