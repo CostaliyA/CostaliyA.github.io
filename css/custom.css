@@ -45,6 +45,14 @@ figcaption {
 .navbar-inverse {
     border-color: #001A57;
 }
+.navbar {
+    height: 60px;
+}
+
+.navbar-header, .navbar-brand, .navbar-nav>li>a {
+    height: 60px;
+    padding-top: 15px; /* 根据需要调整 */
+}
 
 .btn-primary:hover {
     background-color: #001A57;
