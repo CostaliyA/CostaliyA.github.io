@@ -42,3 +42,51 @@
   volume: '130'
   note: 
 
+- id: wu2023zgaming
+  type: paper-conference
+  author:
+  - family: Wu
+    given: Jiangkai
+  - family: Guan
+    given: Yu
+  - family: Mao
+    given: Qi
+  - family: Cui
+    given: Yong
+  - family: Guo
+    given: Zongming
+  - family: Zhang
+    given: Xinggong
+  issued:
+  - year: 2023
+  title: ZGaming: Zero-latency 3D cloud gaming by image prediction
+  container-title: Proceedings of the ACM SIGCOMM 2023 Conference
+  publisher: 
+  page: '710-723'
+  volume: 
+
+- id: ma2023overview
+  type: paper-conference
+  author:
+  - family: Ma
+    given: Siwei
+  - family: Guo
+    given: Junlong
+  - family: Wang
+    given: Ruofan
+  - family: Chang
+    given: Jianhui
+  - family: Mao
+    given: Qi
+  - family: Huang
+    given: Zhimeng
+  - family: Jia
+    given: Chuanmin
+  issued:
+  - year: 2023
+  title: Overview of intelligent video coding:from model-based to learning-based approaches
+  container-title: Visual Intelligence
+  publisher: Springer
+  page: '15'
+  volume: '1'
+
