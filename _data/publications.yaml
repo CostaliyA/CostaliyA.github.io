@@ -1,20 +1,4 @@
 ---
-- id: jun2022channel
-  type: article-journal
-  author:
-  - family: Jun2
-    given: Na Young
-  - family: Field
-    given: Greg D.
-  - family: Pearson
-    given: John M.
-  issued:
-  - year: 2022
-  title: Efficient coding, channel capacity and the emergence of retinal mosaics
-  container-title: Advances in Neural Information Processing Systems
-  volume: (*accepted*)
-  note: Selected for Oral Presentation
-
 - id: mao2023mag
   type: paper-conference
   author:
