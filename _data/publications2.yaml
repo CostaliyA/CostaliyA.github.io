@@ -1,0 +1,86 @@
+---
+- id: jun2022channel
+  type: article-journal
+  author:
+  - family: Jun
+    given: Na Young
+  - family: Field
+    given: Greg D.
+  - family: Pearson
+    given: John M.
+  issued:
+  - year: 2022
+  title: Efficient coding, channel capacity and the emergence of retinal mosaics
+  container-title: Advances in Neural Information Processing Systems
+  volume: (*accepted*)
+  note: Selected for Oral Presentation
+
+- id: roy2021inter
+  type: article-journal
+  author:
+  - family: Roy
+    given: Suva
+  - family: Jun
+    given: Na Young
+  - family: Davis
+    given: Emily L
+  - family: Pearson
+    given: John
+  - family: Field
+    given: Greg D
+  issued:
+  - year: 2021
+  title: Inter-mosaic coordination of retinal receptive fields
+  container-title: Nature
+  publisher: Nature Publishing Group
+  page: '409-413'
+  volume: '592'
+  issue: '7854'
+
+- id: goffinet2021low
+  type: article-journal
+  author:
+  - family: Goffinet
+    given: Jack
+  - family: Brudner
+    given: Samuel
+  - family: Mooney
+    given: Richard
+  - family: Pearson
+    given: John
+  issued:
+  - year: 2021
+  title: Low-dimensional learned feature spaces quantify individual and group differences
+    in vocal repertoires
+  container-title: eLife
+  publisher: eLife Sciences Publications
+  page: 'e67855'
+  volume: '10'
+
+- id: draelos2020online
+  type: paper-conference
+  author:
+  - family: Draelos
+    given: Anne
+  - family: Pearson
+    given: John M
+  issued:
+  - year: 2020
+  title: Online neural connectivity estimation with noisy group testing
+  container-title: Advances in neural information processing systems
+  volume: '33'
+
+- id: draelos2020arxiv
+  type: article-journal
+  author:
+  - family: Draelos
+    given: Anne
+  - family: Naumann
+    given: Eva A
+  - family: Pearson
+    given: John M
+  issued:
+  - year: 2020
+  title: Online neural connectivity estimation with ensemble stimulation
+  container-title: arXiv preprint arXiv:2007.13911
+...
