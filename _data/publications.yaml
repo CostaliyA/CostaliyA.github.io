@@ -15,3 +15,23 @@
   volume: (*accepted*)
   note: Selected for Oral Presentation
 
+- id: mao2023mag
+  type: paper-conference
+  author:
+  - family: Mao
+    given: Qi
+  - family: Chen
+    given: Lan
+  - family: Gu
+    given: Yuchao
+  - family: Fang
+    given: Zhen
+  - family: Shou
+    given: Mike Zheng
+  issued:
+  - year: 2023
+  title: "MAG-Edit: Localized Image Editing in Complex Scenarios via $$\backslash$underline $\{$M$\}$ $ ask-Based $$\backslash$underline $\{$A$\}$ $ ttention-Adjusted $$\backslash$underline $\{$G$\}$ $ uidance"
+  container-title: arXiv preprint arXiv:2312.11396
+  publisher: 
+  page: 
+  volume: 
