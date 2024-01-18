@@ -15,5 +15,5 @@ Lab Location
 ## Mailing Address:
 
 
-## Official Account
+## Official Account:
 <img src="/images/wechat.jpg" width="200"/>
