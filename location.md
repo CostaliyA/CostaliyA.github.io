@@ -10,10 +10,24 @@ qimao@cuc.edu.cn
 
 
 ## Lab Location: 
-Lab Location
+F15 in State Key Laboratory of Media Convergence and Communication
+
+Communication University of China
+
+China,100024
 
 ## Mailing Address:
+Information and Communication Engineering School
 
+Communication University of China
+
+Dingfuzhuang East Street No. 1
+
+Chaoyang District
+
+Beijing
+
+China,100024
 
 ## Official Account:
 <img src="/images/wechat.jpg" width="200"/>
