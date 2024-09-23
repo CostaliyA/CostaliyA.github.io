@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a fourth-year student majoring in Artificial Intelligence at the Communication University of China. My current research focus is on LLM reasoning, and I also have a keen interest in music production. I welcome any opportunities for communication!
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image generation, image edit
+- **Large Language Model:** LLM reasoning
 
 ## News
 
