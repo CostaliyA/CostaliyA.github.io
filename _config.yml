@@ -1,22 +1,20 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Zhen Fang (方 镇)
+position: Undergraduate Student
+affiliation: Artificial Intelligence
+email: faziizhen@cuc.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Zhen Fang
+description: 
+canonical:
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=ALUCkoUcYh_uaQvms7sxcHnKmA-PcvhmkgZLjGrcfDGjvtJyJPeDrwywUpDylSWxSNNIRFPwLKsQyxOg8FgCA8er7NEv8bs&user=D670T8UAAAAJ
+
+github_link: https://github.com/CostaliyA
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
