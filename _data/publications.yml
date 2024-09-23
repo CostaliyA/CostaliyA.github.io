@@ -7,6 +7,6 @@ main:
     pdf: https://arxiv.org/abs/2312.11396
     code: https://github.com/HelenMao/MAG-Edit
     Page: https://mag-edit.github.io/
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/mag_edit.png
     notes: Poster
 
