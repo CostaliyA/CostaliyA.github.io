@@ -6,7 +6,14 @@ main:
     conference: ACM International Conference on Multimedia <strong>(ACMMM)</strong>, 2024.
     pdf: https://arxiv.org/abs/2312.11396
     code: https://github.com/HelenMao/MAG-Edit
-    Page: https://mag-edit.github.io/
+    page: https://mag-edit.github.io/
     image: ./assets/img/mag_edit.png
     notes: Poster
 
+  - title: MAG-Edit:Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance
+    authors: Yuanhang Li, Qi Mao, Lan Chen, <strong>Zhen Fang</strong>, Lei Tian, Xinyan Xiao, Libiao Jin, Hua Wu
+    conference_short: 
+    conference: 
+    pdf: https://arxiv.org/abs/2409.15259
+    image: ./assets/img/s2ag.png
+    notes: 
