@@ -13,7 +13,7 @@ I am a fourth-year student majoring in Artificial Intelligence at the Communicat
 
 ## News
 
-- **[Jul. 2024]** One paper about image editing is accepted to ACMMM 2024.
+- **[Jul. 2024]** One paper about image editing is accepted by ACMMM 2024.
 
 
 
