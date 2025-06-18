@@ -20,7 +20,7 @@ I am a first-year graduate student at University of Science and Technology of Ch
 
 ## Awards
 
-- **[Jul. 2024]**We get the <u>THIRD</u> prize at Robotwin Dual-Arm Collaboration Challenge Within 2nd Meis Workshop! (<u>CVPR 2025 Workshop</u>)
+- **[Jul. 2024]**We get the <strong><u>THIRD</u></strong> prize at Robotwin Dual-Arm Collaboration Challenge Within 2nd Meis Workshop! (<strong><u>CVPR 2025 Workshop</u></strong>)
 
 
 
