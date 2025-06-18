@@ -1,7 +1,7 @@
 main:
 
   - title: CRITICTOOL:Evaluating Self-Critique Capabilities of Large Language Models in Tool-Calling Error Scenarios
-    authors: Shiting Huang*, <strong>Zhen Fang*</strong>, Zehui Chen, Siyu Yuan, Junjie Ye, Yu Zeng, Lin Chen, Qi Mao, Feng Zhao
+    authors: Shiting Huang*, <strong><u>Zhen Fang*<\u></strong>, Zehui Chen, Siyu Yuan, Junjie Ye, Yu Zeng, Lin Chen, Qi Mao, Feng Zhao
     conference_short: 
     conference: 
     pdf: https://www.arxiv.org/abs/2506.13977
@@ -9,7 +9,7 @@ main:
     notes: arxiv 2025
 
   - title: MAG-Edit:Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance
-    authors: Qi Mao, Lan Chen, Yuchao Gu, <strong>Zhen Fang</strong>, and Mike Zheng Shou
+    authors: Qi Mao, Lan Chen, Yuchao Gu, <strong><u>Zhen Fang<\u></strong>, and Mike Zheng Shou
     conference_short: ACMMM
     conference: ACM International Conference on Multimedia <strong>(ACMMM)</strong>, 2024.
     pdf: https://arxiv.org/abs/2312.11396
@@ -19,7 +19,7 @@ main:
     notes: Poster
 
   - title: StarVid:Enhancing Semantic Alignment in Video Diffusion Models via Spatial and SynTactic Guided Attention Refocusing
-    authors: Yuanhang Li, Qi Mao, Lan Chen, <strong>Zhen Fang</strong>, Lei Tian, Xinyan Xiao, Libiao Jin, Hua Wu
+    authors: Yuanhang Li, Qi Mao, Lan Chen, <strong><u>Zhen Fang<\u></strong>, Lei Tian, Xinyan Xiao, Libiao Jin, Hua Wu
     conference_short: 
     conference: 
     pdf: https://arxiv.org/abs/2409.15259
