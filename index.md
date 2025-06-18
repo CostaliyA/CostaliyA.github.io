@@ -8,7 +8,7 @@ I am a first-year graduate student at University of Science and Technology of Ch
 
 ## Research Interests
 
-- **Embodied AI:** Vision Language Action
+- **🔥🔥Embodied AI🔥🔥:** Vision Language Action
 - **Large Language Model:** LLM reasoning
 - **Computer Vision:** image generation, image edit
 
