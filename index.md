@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a first-year graduate student at University of Science and Technology of China (USTC), advised by Prof. Feng Zhao. I got a B.E. degree at Communication University of China in 2025. My current research focus is on Vision Language Action models, and I also have a keen interest in music production. I welcome any opportunities for communication!
+I am a first-year master student at University of Science and Technology of China (USTC), advised by Prof. Feng Zhao. I got a B.E. degree at Communication University of China in 2025. My current research focus is on Vision Language Action models, and I also have a keen interest in music production. I welcome any opportunities for communication!
 
 ## Research Interests
 
-- **🔥🔥Embodied AI🔥🔥:** Vision Language Action
+- **Embodied AI🔥🔥:** Vision Language Action
 - **Large Language Model:** LLM reasoning
 - **Computer Vision:** image generation, image edit
 
