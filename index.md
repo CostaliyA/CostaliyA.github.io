@@ -15,8 +15,8 @@ I am a first-year master student at University of Science and Technology of Chin
 
 
 ## News
-- **[Aug. 2025]** One paper about function calling is accepted by EMNLP 2025.
-- **[Jul. 2024]** One paper about image editing is accepted by ACMMM 2024.
+- **[Aug. 2025]** One paper about function calling is accepted by <strong><u>EMNLP 2025</u></strong>.
+- **[Jul. 2024]** One paper about image editing is accepted by <strong><u>ACMMM 2024</u></strong>.
 
 ## Awards
 
