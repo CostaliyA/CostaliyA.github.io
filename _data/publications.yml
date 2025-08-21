@@ -2,11 +2,11 @@ main:
 
   - title: CRITICTOOL:Evaluating Self-Critique Capabilities of Large Language Models in Tool-Calling Error Scenarios
     authors: Shiting Huang*, <strong><u>Zhen Fang*</u></strong>, Zehui Chen, Siyu Yuan, Junjie Ye, Yu Zeng, Lin Chen, Qi Mao, Feng Zhao
-    conference_short: 
-    conference: 
+    conference_short: EMNLP
+    conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>
     pdf: https://www.arxiv.org/abs/2506.13977
     image: ./assets/img/critictool.png
-    notes: arxiv 2025
+    notes: Main
 
   - title: MAG-Edit:Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance
     authors: Qi Mao, Lan Chen, Yuchao Gu, <strong><u>Zhen Fang</u></strong>, and Mike Zheng Shou
