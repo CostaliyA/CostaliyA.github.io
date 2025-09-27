@@ -21,7 +21,7 @@ main:
   - title: StarVid:Enhancing Semantic Alignment in Video Diffusion Models via Spatial and SynTactic Guided Attention Refocusing
     authors: Yuanhang Li, Qi Mao, Lan Chen, <strong><u>Zhen Fang</u></strong>, Lei Tian, Xinyan Xiao, Libiao Jin, Hua Wu
     conference_short: TMM
-    conference: IEEE Transactions on Multimedia
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>
     pdf: https://arxiv.org/abs/2409.15259
     image: ./assets/img/s2ag.png
     notes: 
