@@ -1,15 +1,18 @@
 main:
   - title: DualVLA:Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action
-    authors: Zhen Fang*, Zhuoyang Liu*, Jiaming Liu, Hao Chen, Yu Zeng,Shiting Huang, Zehui Chen1, Lin Chen, Shanghang Zhang, Feng Zhao(Project Leader)
+    authors: <strong><u>Zhen Fang*(Project Leader)</u></strong>, Ruiyan Han,XinYu Sun,Yuchen Ma,Ziheng Wang,Yu Zeng,Zehui Chen,Lin Chen,Wenxuan Huang,Wei-Jie Xu,Yi Cao,Feng Zhao 
     conference_short: Arxiv
     pdf: https://arxiv.org/pdf/2601.03193
+    code: https://github.com/Hungryyan1/UniCorn
+    page: https://costaliya.github.io/UniCorn.github.io/
     image: ./assets/img/critictool.png
     notes: Preprint
 
   - title: DualVLA:Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action
-    authors: Zhen Fang*, Zhuoyang Liu*, Jiaming Liu, Hao Chen, Yu Zeng,Shiting Huang, Zehui Chen1, Lin Chen, Shanghang Zhang, Feng Zhao
+    authors: <strong><u>Zhen Fang*</u></strong>, Zhuoyang Liu*, Jiaming Liu, Hao Chen, Yu Zeng,Shiting Huang, Zehui Chen1, Lin Chen, Shanghang Zhang, Feng Zhao
     conference_short: Arxiv
     pdf: https://arxiv.org/abs/2511.22134
+    page: https://costaliya.github.io/DualVLA/
     image: ./assets/img/critictool.png
     notes: Preprint
 
