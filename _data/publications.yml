@@ -1,6 +1,6 @@
 main:
   - title: UniCorn:Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision
-    authors: <strong><u>Zhen Fang*(Project Leader)</u></strong>, Ruiyan Han,XinYu Sun,Yuchen Ma,Ziheng Wang,Yu Zeng,Zehui Chen,Lin Chen,Wenxuan Huang,Wei-Jie Xu,Yi Cao,Feng Zhao 
+    authors: <strong><u>Zhen Fang*(Project Leader)</u></strong>, Ruiyan Han*,XinYu Sun*,Yuchen Ma,Ziheng Wang,Yu Zeng,Zehui Chen,Lin Chen,Wenxuan Huang,Wei-Jie Xu,Yi Cao,Feng Zhao 
     conference_short: Arxiv
     pdf: https://arxiv.org/pdf/2601.03193
     code: https://github.com/Hungryyan1/UniCorn
