@@ -1,4 +1,18 @@
 main:
+  - title: DualVLA:Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action
+    authors: Zhen Fang*, Zhuoyang Liu*, Jiaming Liu, Hao Chen, Yu Zeng,Shiting Huang, Zehui Chen1, Lin Chen, Shanghang Zhang, Feng Zhao(Project Leader)
+    conference_short: Arxiv
+    pdf: https://arxiv.org/pdf/2601.03193
+    image: ./assets/img/critictool.png
+    notes: Preprint
+
+  - title: DualVLA:Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action
+    authors: Zhen Fang*, Zhuoyang Liu*, Jiaming Liu, Hao Chen, Yu Zeng,Shiting Huang, Zehui Chen1, Lin Chen, Shanghang Zhang, Feng Zhao
+    conference_short: Arxiv
+    pdf: https://arxiv.org/abs/2511.22134
+    image: ./assets/img/critictool.png
+    notes: Preprint
+
 
   - title: CRITICTOOL:Evaluating Self-Critique Capabilities of Large Language Models in Tool-Calling Error Scenarios
     authors: Shiting Huang*, <strong><u>Zhen Fang*</u></strong>, Zehui Chen, Siyu Yuan, Junjie Ye, Yu Zeng, Lin Chen, Qi Mao, Feng Zhao
