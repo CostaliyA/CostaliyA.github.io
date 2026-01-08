@@ -28,7 +28,7 @@ My research focuses on a tri-fold approach to human-like artificial intelligence
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
 
 
 
