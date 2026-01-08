@@ -25,10 +25,12 @@ My research focuses on a tri-fold approach to human-like artificial intelligence
 - **[Jul. 2025]**We get the <strong><u>THIRD</u></strong> prize at Robotwin Dual-Arm Collaboration Challenge Within 2nd Meis Workshop! (<strong><u>CVPR 2025 Workshop</u></strong>)
 
 
-<!-- 
+
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
+
+
 
 
 ## Miscellaneous
