@@ -5,7 +5,7 @@ main:
     pdf: https://arxiv.org/pdf/2601.03193
     code: https://github.com/Hungryyan1/UniCorn
     page: https://costaliya.github.io/UniCorn.github.io/
-    image: ./assets/img/critictool.png
+    image: ./assets/img/unicorn.png
     notes: Preprint
 
   - title: DualVLA:Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action
@@ -13,7 +13,7 @@ main:
     conference_short: Arxiv
     pdf: https://arxiv.org/abs/2511.22134
     page: https://costaliya.github.io/DualVLA/
-    image: ./assets/img/critictool.png
+    image: ./assets/img/dualvla.png
     notes: Preprint
 
 
