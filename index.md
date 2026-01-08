@@ -29,3 +29,8 @@ My research focuses on a tri-fold approach to human-like artificial intelligence
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
+## Miscellaneous
+
+Outside of my research, I am a creator at heart. I immerse myself in 📖reading (with Wang Xiaobo as my favorite author), 🎵music production (Lo-fi Hip-hop & EDM), ✍️creative writing, and  ⚽table football. I thrive on the sensation of bringing something new into existence. My journey also involves exploring 🎨visual design, 💫anime, 📷photography, and 🎬movie production. For me, <strong>life is all about  perception and experience<strong>!
