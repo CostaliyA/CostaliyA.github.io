@@ -1,7 +1,18 @@
 main:
 
   - title: Vision-DeepResearch:Incentivizing DeepResearch Capability in Multimodal Large Language Models
-    authors: <strong><u>Zhen Fang*(Project Leader)</u></strong>, Ruiyan Han*,XinYu Sun*,Yuchen Ma,Ziheng Wang,Yu Zeng,Zehui Chen,Lin Chen,Wenxuan Huang,Wei-Jie Xu,Yi Cao,Feng Zhao 
+    authors: Wenxuan Huang, Yu Zeng, Qiuchen Wang, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, Zhenfei Yin, Lin Chen, Zehui Chen, Yao Hu, Philip Torr, Feng Zhao, Wanli Ouyang
+    conference_short: Arxiv
+    pdf: https://arxiv.org/pdf/2601.22060
+    code: https://github.com/Osilly/Vision-DeepResearch
+    page: https://osilly.github.io/Vision-DeepResearch/
+    image: ./assets/img/VDR_method.png
+    notes: Preprint
+
+
+
+  - title: Vision-DeepResearch Benchmark:Rethinking Visual and Textual Search for Multimodal Large Language Models
+    authors: Yu Zeng*, Wenxuan Huang*, <strong><u>Zhen Fang*</u></strong>, Shuang Chen, Yufan Shen, Yishuo Cai, Xiaoman Wang, Zhenfei Yin, Lin Chen, Zehui Chen, Shiting Huang, Yiming Zhao, Yao Hu, Philip Torr, Wanli Ouyang, Shaosheng Cao
     conference_short: Arxiv
     pdf: https://arxiv.org/pdf/2602.02185
     code: https://github.com/Osilly/Vision-DeepResearch
