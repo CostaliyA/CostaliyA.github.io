@@ -17,6 +17,7 @@ My research focuses on a tri-fold approach to human-like artificial intelligence
 
 
 ## News
+- **[Apr. 2026]** One paper about self-evolving UMM is accepted by <strong><u>ACL 2026</u></strong>.
 - **[Aug. 2025]** One paper about function calling is accepted by <strong><u>EMNLP 2025</u></strong>.
 - **[Jul. 2024]** One paper about image editing is accepted by <strong><u>ACMMM 2024</u></strong>.
 
