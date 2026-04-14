@@ -22,7 +22,8 @@ main:
 
   - title: UniCorn:Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision
     authors: <strong><u>Zhen Fang*(Project Leader)</u></strong>, Ruiyan Han*,XinYu Sun*,Yuchen Ma,Ziheng Wang,Yu Zeng,Zehui Chen,Lin Chen,Wenxuan Huang,Wei-Jie Xu,Yi Cao,Feng Zhao 
-    conference_short: <strong>ACL 2026</strong>
+    conference: The 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>
+    conference_short: ACL 2026
     pdf: https://arxiv.org/pdf/2601.03193
     code: https://github.com/Hungryyan1/UniCorn
     page: https://costaliya.github.io/UniCorn.github.io/
